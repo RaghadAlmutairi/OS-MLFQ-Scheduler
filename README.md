@@ -6,9 +6,6 @@ This repository contains a complete implementation of a **Multilevel Feedback Qu
 
 ---
 
-## 📌 Repository Name
-OS-MLFQ-Scheduler
-
 ## 📄 Project Description
 An Operating Systems course project implementing a three‑level CPU scheduler:
 - Q0 → Round Robin (Quantum = 8)
